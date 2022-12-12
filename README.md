@@ -1,6 +1,9 @@
 # CLTD
 Roblox Command Line Tower Defense Game Demo
 
-Individual scripts are found in the folders and the entire project is in the rbxl file.
+**To View/Play Game**
 
-Everything made from scratch except for the FastCastRedux wrapper module.
+Download Roblox Studio here: https://www.roblox.com/create.
+CLTD.rbxl can be opened in Roblox Studio and it contains all code, models, etc.
+
+The main code of the game are in folders above the project file.
