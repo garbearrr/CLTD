@@ -7,6 +7,10 @@ Download Roblox Studio here: https://www.roblox.com/create.
 
 CLTD.rbxl can be opened in Roblox Studio and it contains all code, models, etc.
 
+A free Roblox account is required to use Roblox Studio.
+
+When the project is opened in Studio, press the play button to start the game.
+
 The main code of the game are in folders above the project file.
 
 **About**
